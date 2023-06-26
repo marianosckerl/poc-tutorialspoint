@@ -1,6 +1,6 @@
 #   PoC | AutoFi
 
-<img src="./logopata.png" alt= “” width="200">
+<img src="./assets/logopata.png" alt= “” width="200">
 
 ## Assestment
 ### Create an interaction with a website where the URL tutorialspoint.com/html/html_iframes.htm is loaded and the program navigates into the page below “Document content goes here…“, interacts with the “About us” link, then returns the URL of the new page, a list of all URLs on the page, a list of all buttons on the page, a list of all text input fields on the page, then creates an account and logs into the site. The output should be both via console and output to the appended file.
@@ -54,6 +54,10 @@ project
 
 Example of test execution
 
-![image](./img1.png)
+![image](./assets/img1.png)
 
-![image](./img2.png)
+![image](./assets/img2.png)
+
+##### A video execution example
+
+<video src='./assets/video.mp4' width=1080/>
