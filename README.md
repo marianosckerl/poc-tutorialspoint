@@ -60,4 +60,4 @@ Example of test execution
 
 ##### A video execution example
 
-<video src='./assets/video.mp4' width=1080/>
+https://github.com/marianosckerl/poc-tutorialspoint/assets/14279644/639cb2eb-ea13-43c0-8ffe-ac1f1ee303a0
